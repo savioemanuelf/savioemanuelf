@@ -8,7 +8,6 @@
 - ### Algorithms and Data Structures
 - ### C++
 --- 
-<div style="text-align: center;">
 
 ### Languages, Frameworks and other technologies:
 <p>
