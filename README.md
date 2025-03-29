@@ -1,18 +1,23 @@
 # 👋 Hello world, I'm Sávio Emanuel!
 
 ## About me: 
-### Undergraduate student in Information Technology at Federal University of Rio Grande do Norte (UFRN), fascinated by programming and software development. 
+### Undergraduate student in Information Technology at Federal University of Rio Grande do Norte (UFRN), fascinated by programming and software development.
+
+## Experience:
+- **IT Scholarship Holder - Núcleo Permanente de Concursos (COMPERVE - UFRN)**  
+  Currently working on various IT-related tasks, focusing on web development technologies like HTML, CSS, JavaScript, and PHP.
+  Studying Spring Framework for next tasks.
 
 ## Currently studying:
 - ### Object-Oriented Programming
-- ### Algorithms and Data Structures
-- ### C++
+- ### Java Spring
+- ### Java
 --- 
 
 ### Languages, Frameworks and other technologies:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,github,git" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,git,php" />
   </a>
 </p>
 
@@ -22,7 +27,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,java,spring,postgresql" />
   </a>
 </p>
 
